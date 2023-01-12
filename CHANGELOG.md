@@ -60,7 +60,7 @@
   ```ruby
   {
     ...
-    ":heart_eyes:" => "https://twemoji.maxcdn.com/2/svg/1f60d.svg",
+    ":heart_eyes:" => "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f60d.svg",
     ...
   }
   ```
@@ -70,7 +70,7 @@
   ```ruby
   {
     ...
-    ":heart_eyes:" => "https://twemoji.maxcdn.com/2/72x72/1f60d.png",
+    ":heart_eyes:" => "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f60d.png",
     ...
   }
   ```
